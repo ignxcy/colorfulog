@@ -1,0 +1,24 @@
+{
+  "name": "colorfulog",
+  "version": "1.0.0",
+  "description": "Make your console.logs colorful!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignxcy/colorfulog.git"
+  },
+  "keywords": [
+    "colors",
+    "colorful",
+    "console.log"
+  ],
+  "author": "ignxcy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ignxcy/colorfulog/issues"
+  },
+  "homepage": "https://github.com/ignxcy/colorfulog#readme"
+}
