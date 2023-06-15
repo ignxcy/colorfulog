@@ -31,5 +31,6 @@ const bgBrightCyan = "\x1b[106m";
 const bgBrightWhite = "\x1b[107m";
 const bold = "\x1b[1m";
 const underline = "\x1b[4m";
+const blink = "\x1b[5m";
 
 module.exports.colorfulog = colorfulog;
