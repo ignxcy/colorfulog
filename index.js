@@ -15,6 +15,13 @@ const bgBlue = "\x1b[44m";
 const bgMagenta = "\x1b[45m";
 const bgCyan = "\x1b[46m";
 const bgWhite = "\x1b[47m";
+const Brightred = "\x1b[91m";
+const Brightgreen = "\x1b[92m";
+const Brightyellow = "\x1b[93m";
+const Brightblue = "\x1b[94m";
+const Brightmagenta = "\x1b[95m";
+const Brightcyan = "\x1b[96m";
+const Brightwhite = "\x1b[97m";
 const bold = "\x1b[1m";
 const underline = "\x1b[4m";
 
